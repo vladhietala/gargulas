@@ -15,7 +15,7 @@ gem 'sprockets-rails', '~> 3.0'
 
 
 # learn-rails
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'high_voltage'
 gem 'simple_form'
 group :development do
